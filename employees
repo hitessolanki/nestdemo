@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "63216f8c2d03204526a46037"
+  },
+  "isdeleted": false,
+  "active": true,
+  "joiningdate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "name": "Hitesh",
+  "age": 28,
+  "email": "solanki2.h@gmail.com",
+  "dob": {
+    "$date": {
+      "$numberLong": "1441861127427"
+    }
+  },
+  "position": "S/W engineer",
+  "salary": 26000,
+  "password": "123456",
+  "profilePicture": "image1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632174de8e64c64c1570f319"
+  },
+  "isdeleted": false,
+  "active": true,
+  "joiningdate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "name": "Hitesh S",
+  "age": 25,
+  "email": "test1@gmail.com",
+  "dob": {
+    "$date": {
+      "$numberLong": "1441861127427"
+    }
+  },
+  "position": "Tester engineer",
+  "salary": 82001,
+  "password": "123456",
+  "profilePicture": "image4.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63217d480ff7ff597adde8a4"
+  },
+  "isdeleted": false,
+  "active": true,
+  "joiningdate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "name": "test one",
+  "age": 27,
+  "email": "test.h@gmail.com",
+  "dob": {
+    "$date": {
+      "$numberLong": "1441861127427"
+    }
+  },
+  "position": "Tester engineer",
+  "salary": 26001,
+  "password": "123456",
+  "profilePicture": "image2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6321ba99affe80a58b1f8e64"
+  },
+  "isdeleted": false,
+  "active": true,
+  "joiningdate": {
+    "$date": {
+      "$numberLong": "1663113600000"
+    }
+  },
+  "name": "test one",
+  "age": 28,
+  "email": "test11.h@gmail.com",
+  "dob": {
+    "$date": {
+      "$numberLong": "769150727427"
+    }
+  },
+  "position": "Tester engineer",
+  "salary": 26001,
+  "password": "123456",
+  "profilePicture": "image2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6324757796d83bddcf3cc294"
+  },
+  "isdeleted": false,
+  "active": true,
+  "joiningdate": {
+    "$date": {
+      "$numberLong": "1663286400000"
+    }
+  },
+  "name": "ravi the one",
+  "email": "ravione@gmail.com",
+  "dob": {
+    "$date": {
+      "$numberLong": "832309127427"
+    }
+  },
+  "age": 26,
+  "position": "Tester engineer",
+  "salary": 26001,
+  "password": "123456",
+  "profilePicture": "image2.jpg",
+  "__v": 0
+}]
